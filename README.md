@@ -22,5 +22,6 @@ Software engineers typically hold at least a baccalaureate degree. A master’s 
 Software engineering is a growing field, even during difficult economic times. The Bureau of Labor Statistics reports that while employers may outsource some positions, outsourcing is less likely to occur in highly specialized computer and software engineering positions than in lower level programming positions. There are exciting opportunities for those with an educational background in software engineering, computer science, software development, computer engineering and similar disciplines.
 
 * Why interesting
+
 It explains why software development is an engineering process and what kinds of development need engineering and what do not. It also make us more clear about what are the branches of software engineering and what prospectives do we have upon entering the work force. It is truly an indispensable field that is highly demanded in the years ahead.
 
